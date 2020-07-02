@@ -1206,4 +1206,9 @@
     addr = "relay.cardanians.io";
     port = 3001;
   }
+  {
+    operator = "orka";
+    addr = "relay01.orkastaker.com";
+    port = 3021;
+  }
 ]
